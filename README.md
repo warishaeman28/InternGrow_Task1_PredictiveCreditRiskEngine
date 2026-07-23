@@ -2,7 +2,6 @@
 
 ## 📌 Project Overview
 
-This project was developed as part of the **Machine Learning Internship at InternGrow**.
 
 The Predictive Credit Risk Engine uses machine learning classification algorithms to predict whether a loan application should be approved based on customer financial information.
 
@@ -78,7 +77,6 @@ PredictiveCreditRiskEngine/
 │
 ├── credit_risk_engine.py
 ├── synthetic_credit_risk_dataset_1000.csv
-├── requirements.txt
 ├── README.md
 ├── images/
 └── output/
@@ -90,9 +88,6 @@ PredictiveCreditRiskEngine/
 
 ### 1. Clone the repository
 
-```bash
-git clone https://github.com/YourUsername/InternGrow_PredictiveCreditRiskEngine.git
-```
 
 ### 2. Install required libraries
 
